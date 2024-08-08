@@ -1,5 +1,3 @@
 # Like-autonomous-driving
-# Like-autonomous-driving
-# 자율 주행
-# autonomous-driving
-# autonomous-driving
+
+본 코드와 관련한 내용을 [`블로그`](https://blog.naver.com/jc603/222992467043)에서 추가로 확인할 수 있습니다.
